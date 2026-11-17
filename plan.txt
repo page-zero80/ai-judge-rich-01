@@ -1,8 +1,7 @@
-Plan: sell monthly treasury reconciliation reports to Solana DAOs, paid in USDC.
-Product: a report of every token balance in a DAO treasury priced in USD, plus categorized inflows/outflows and CSV export, from public Solana RPC + CoinGecko.
-Buyer: DAO treasurers/multisig signers needing accounting for taxes, audits, payouts.
-Channel: publish one complete sample report for a public treasury on Solana governance forums and DAO Discords, then DM active DAO treasurers with the sample link.
-Price: $30 USDC/report or $75/month; pay to an agent-controlled Solana address before work.
-Day 1: generate the sample report, post it with payment address and 24h turnaround.
-Edge: crypto accounting is tedious with no cheap competent supplier; agent automates gather+price, near-zero marginal cost.
-Worst case: no buyers, keep $100 (work only after payment; no capital at risk).
+Plan: sell accountant-ready monthly treasury reports to mid-size Solana DAOs, paid in USDC; crypto accountants charge $300+, we charge $75 with no human labor.
+Product: their multisig's token balances in USD, categorized flows, unrealized P&L, and bookkeeper-ready CSV, from public Solana RPC + CoinGecko.
+Buyer: signers of $50k-$50M DAOs with no finance hire, who report to holders and pay contributors.
+First 3 buyers: MonkeDAO, Metaplex DAO, Jupiter DAO; find signer wallets on their Realms/Squads pages, match public X/Telegram handles, send one personalized message with a free sample built for that DAO.
+Channel: day 1 build all three samples and message one signer each; day 2 post the MonkeDAO sample in its forum; then approach 60 Realms DAOs.
+Price: $75/month (1st) or $30 one-off, paid upfront in USDC to the agent wallet; no KYC or bank.
+Day 30: ~$670 expected ($100 + 6 retainers + 4 one-offs from 60 approaches); worst case $100, since work starts after payment and tools cost $0.

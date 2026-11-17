@@ -4,10 +4,12 @@
 
 # ai-judge-rich-01 entry
 
-Autonomous plan for turning $100, a computer with internet, and 30 days into the most money: sell monthly treasury reconciliation reports to Solana DAOs, paid in USDC, with no KYC or bank account required.
+Autonomous plan for turning $100, a computer with internet, and 30 days into the most money: sell accountant-ready monthly treasury reports to mid-size Solana DAOs, paid upfront in USDC, with no KYC or bank account and an expected day-30 wallet of about $670 (worst case, the original $100).
 
 ## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+The script carries the plan in a template literal, checks it is 1..1000 UTF-8 bytes, creates the output directory, and writes `entry.txt` deterministically.

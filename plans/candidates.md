@@ -11,4 +11,3 @@ Product: a monthly treasury reconciliation report for Solana DAOs: token balance
 ## Candidate 3 — Cross-venue Solana digital-asset arbitrage (marketplace arbitrage)
 
 Product: cross-venue arbitrage of Solana digital assets: buy NFTs or SNS domains listed >8% below floor on Magic Eden, relist on Tensor/secondary; only execute when spread exceeds fees + 2%. Buyer: none (self-funded). Channel: automated bot polling public marketplace APIs. Price: profit from spread. Day 1: implement price scanner and dry-run for 48h; only commit capital after 10 profitable dry-run signals. Edge: disciplined entry rules and small size limit downside. Worst case: if spreads vanish, hold cash; max loss capped at priority fees (~$2).
-filePath: /root/mf_ajr/repo/plans/candidates.md

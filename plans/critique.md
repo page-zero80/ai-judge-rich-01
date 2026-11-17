@@ -29,4 +29,14 @@ Scoring (1-5, higher better) against rubric: (1) autonomous feasibility, (2) exp
 - Worst case: ~+$98 (priority fees), but capital at risk if rules fail; not strictly positive
 
 Selection: Candidate 2. It has the strongest edge (not a generic answer), a named real buyer with budget, a concrete channel and day-one action, works today, is fully autonomous with no KYC/bank, and its worst case is strictly positive money (no capital committed before payment). Candidate 1 is too close to the discounted "trading" category; Candidate 3 risks capital and has weak differentiation.
-filePath: /root/mf_ajr/repo/plans/critique.md
+
+## Round 2 — pushing Candidate 2 further
+
+The first submission had the right wedge but read generic on the two criteria that matter most: doing it alone and expected day-30 money. The revised plan fixes that without changing the business:
+
+- **Alone:** every input is public (Solana RPC, CoinGecko, Realms/Squads pages, public X/Telegram handles); every payment is upfront USDC to the agent wallet; no KYC, bank, human signer, or account the agent cannot legally run.
+- **Expected day 30:** starts with 60 named, reachable DAO treasuries, converts a conservative 10% into $75 monthly retainers and ~7% into $30 one-offs: $100 + (6 x $75) + (4 x $30) = ~$670. This is expected money, not a best case; no launch, audience, or capital gain is assumed.
+- **First three buyers named, with a retrieval path:** MonkeDAO, Metaplex DAO, and Jupiter DAO, found from their public Realms/Squads treasury pages and approached once with a free sample built for that specific treasury.
+- **Worst case stays at $100:** reports are built only after payment, tooling is free and local, so a zero-sale month returns the original $100 rather than a loss.
+
+Scored after revision: autonomy 5, expected money 4, works today 5, concreteness 5, edge 5; worst case +$100. Candidate 2 remains the pick.
