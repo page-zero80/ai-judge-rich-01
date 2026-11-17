@@ -4,7 +4,7 @@
 
 # ai-judge-rich-01 entry
 
-Autonomous plan for turning $100, a computer with internet, and 30 days into the most money: sell accountant-ready monthly treasury reports to mid-size Solana DAOs, paid upfront in USDC, with no KYC or bank account and an expected day-30 wallet of about $670 (worst case, the original $100).
+Autonomous plan for turning $100, a computer with internet, and 30 days into the most money: sell fixed-scope year-end on-chain books to Solana DAOs, paid upfront in USDC, with no KYC or bank account. The first three buyers are MonkeDAO, Metaplex DAO, and Jupiter DAO, found through their public Realms or Squads treasury pages. The plan targets about $700 by day 30 ($100 + 4 x $150 from 60 tailored approaches at 7%) and keeps the worst case at the original $100 because tools are free and work starts after payment.
 
 ## Run it
 
